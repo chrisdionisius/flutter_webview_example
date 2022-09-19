@@ -1,16 +1,40 @@
 # flutter_webview_example
 
-A new Flutter project.
+Praktikum pertemuan 25 TSA Mobile Flutter Program - Flutter Webview
 
-## Getting Started
+### Praktikum 1
 
-This project is a starting point for a Flutter application.
+![Screenshot Praktikum 1](images/SS_project_1.png)
 
-A few resources to get you started if this is your first Flutter project:
+### Praktikum 2
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot Praktikum 2](images/SS_project_2.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Praktikum 3
+
+![Screenshot Praktikum 3](images/SS_project_3.png)
+
+### Praktikum 4
+
+![Screenshot Praktikum 4](images/SS_project_4.png)
+
+### Praktikum 5
+
+![Screenshot Praktikum 5](images/SS_project_5.png)
+
+### Praktikum 6
+
+![Screenshot Praktikum 6](images/SS_project_6.png)
+
+## Preview
+
+<!-- ![Screenshot Praktikum](images/SS_project_4.gif) -->
+
+# Resources
+
+- [Flutter Webview Plugin](https://pub.dev/packages/flutter_webview_plugin)
+- [Path Provider](https://pub.dev/packages/path_provider)
+
+# References
+
+- [Flutter Webview] (https://codelabs.developers.google.com/codelabs/flutter-webview)
